@@ -1,0 +1,7 @@
+main {
+	&.red-title {
+		> h1 { // main.red-title > h1
+			color: red;
+		}
+	}
+}
